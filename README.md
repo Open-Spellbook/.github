@@ -54,7 +54,7 @@ By bringing the Spellbook back to open source, we aim to:
 
 ## Join Us
 
-The Web3 ecosystem thrives on open-source projects. We believe in that ethos and are working diligently to reclaim the Spellbook from its commercial confines. By contributing to this initiative, you're supporting a project and fostering an open and vibrant data ecosystem within Web3.
+The Web3 ecosystem thrives on open-source projects. We believe in that ethos and are working diligently to reclaim the Spellbook from its commercial confines. By contributing to this initiative, you're supporting a project and fostering an open and vibrant data ecosystem within Web3. Please [join the Discord](https://discord.gg/3GcWhFUU) to contribute and help make this project a success!
 
 
 
