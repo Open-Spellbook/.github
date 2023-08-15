@@ -1,6 +1,6 @@
 ![test](assets/Open_Spellbook_Banner_No_Logo.png)
 
-#### Welcome to the Open Spellbook Org page! 
+## Welcome to the Open Spellbook Org page! 
 This project is a mission-driven effort to resurrect and return the Spellbook DBT project, previously overseen by Dune Analytics, back to its rightful place within the open-source community under the MIT license.
 
 In this organization, you will find repositories dedicated to various SQL/cloud provider versions, as well as the core web repository.
