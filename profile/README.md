@@ -5,8 +5,6 @@ This project is a mission-driven effort to resurrect and return the Spellbook DB
 
 In this organization, you will find repositories dedicated to various SQL/cloud provider versions, as well as the core web repository.
 
-![](https://hackmd.io/_uploads/rynqnBYnn.png)
-
 ### 🚀 Gitcoin Grants Round 18
 
 This project is currently participating in Gitcoin Grants Round 18. Every contribution, big or small, can make a significant impact due to quadratic matching.
@@ -30,7 +28,7 @@ Our project is a response to the above changes. We have taken the last MIT-licen
 
 ## 💸 Funding & Budget
 
-We've embarked on a mission to raise funds for the project, and our approach to using these funds is transparent and community-centric:
+Our funding goals are initially focused on the Gitcoin Grants round 18.  As an open-source web3 public good, we believe the Open Spellbook is a perfect candidate for the Gitcoin model.  Our goal for use of funds raised is transparent and community-centric:
 
 - **If <20k is received**: All of the grant will be allocated for retroactive funding. This is because a lesser interest suggests we might not have the resources to set up a future-focused DAO.
 - **If >20k is received**: We'd use 50% for retroactive funding and the rest for future contributions.
@@ -38,13 +36,13 @@ We've embarked on a mission to raise funds for the project, and our approach to 
 Contributors to the project have a window of one month to prove their contributions, after which they can:
 
 1. Claim their rewards.
-2. Forfeit their claim, essentially directing their share towards future endeavors.
+2. Forfeit their claim, essentially directing their share towards the future funding rounds for maintainers of the Open Spellbook.
 
 We are also discussing the best way to distribute rewards, with the current leaning towards considering GitHub commits as a standard.
 
-For future contributions, assuming we raise more than 20k, half of the grant funds will be locked in a Multi-Sig Safe. We're contemplating rewarding contributors based on quadratic voting with Gitcoin Grant Stack's support.
+Assuming we raise more than 20k for future contributions, half of the grant funds will be locked in a Multi-Sig Safe. We're contemplating rewarding contributors based on quadratic voting with Gitcoin Grant Stack's support but are open to community input.
 
-## 🚀 Impact
+## 🚀 Impact,
 
 By bringing the Spellbook back to open source, we aim to:
 
